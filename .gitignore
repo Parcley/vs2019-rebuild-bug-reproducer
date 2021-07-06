@@ -1,0 +1,7 @@
+.proj.DotSettings
+.vs
+obj
+bin
+*.DotSettings.user
+*Properties/PublishProfiles
+*.csproj.user
